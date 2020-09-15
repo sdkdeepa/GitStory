@@ -1,0 +1,4 @@
+This is chapter 3 and I am going to 
+	-git status 
+	-git add .
+	- git commit -m "2 files added"

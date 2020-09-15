@@ -1,0 +1,5 @@
+This is chapter 2 
+
+	- git init
+	- git add chapter1.txt
+	- git commit -m "message in presentense"
