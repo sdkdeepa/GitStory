@@ -1,3 +1,3 @@
-This is chapter 1 of Git story.
+This is chapter 1 of Git story. Chapter 1
 
 - git init
